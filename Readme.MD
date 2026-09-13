@@ -11,7 +11,7 @@ HR efforts at retention can risk getting spread across the workforce instead of 
 
 ## Techonlogies Used
 
-| Layer | Tools |
+| Step | Tools |
 |---|---|
 | Data preparation & EDA | Python (Pandas, Numpy) |
 | Data modeling | Power BI (star schema) |
@@ -27,7 +27,7 @@ HR efforts at retention can risk getting spread across the workforce instead of 
 
 
 ## Dashboard Preview
-
+![Dashboard View"](Dashboard Preview.png)
 
 ## Key Findings
 
