@@ -27,7 +27,7 @@ HR efforts at retention can risk getting spread across the workforce instead of 
 
 
 ## Dashboard Preview
-![Dashboard View"](Dashboard Preview.png)
+<img src="Dashboard Preview.png" alt="Dashboard View" width="500">
 
 ## Key Findings
 
