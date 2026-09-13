@@ -5,7 +5,7 @@ an analytical take on IBM's public HR Employee Attrition dataset to create a das
 ---
 
 ## Executive Summary
-**[📄 Executive Summary](./Final Documents/HR Attrition Analysis Executive Summary.pdf)**
+**[📄 Executive Summary](https://github.com/Karim0004/HR-Attrition-Analysis-Dashboard/blob/main/Final%20Documents/HR%20Attrition%20Analysis%20Executive%20Summary.pdf)**
 
 ## Problem Statement
 
