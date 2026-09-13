@@ -12,7 +12,7 @@ an analytical take on IBM's public HR Employee Attrition dataset to create a das
 total company attrition stands at 16.12% (237 of 1,470 employees), data on which roles, working conditions or tenure stages , etc. that actually drive that number can be used to assist with retention budget allocation.
 HR efforts at retention can risk getting spread across the workforce instead of targeting segments where it will have the most impact.
 
-## Techonlogies Used
+## Techonlogies
 
 | Step | Tools |
 |---|---|
@@ -36,10 +36,10 @@ HR efforts at retention can risk getting spread across the workforce instead of 
 
 - **Sales Representatives are a statistical outlier**: The Sales Representative role is a massive outlier with an attrition rate of nearly 40% (39.76%), it is followed by Laboratory Technicians (23.94%) and Human Resources roles (23.08%) which also experience higher-than-average turnover. On the other hand, senior roles like Research Directors (2.50%) and Managers (4.90%) have the lowest attrition rates. Attrition rate of Sales Representatives is a true statistical outlier with z-score of 2.0.
 
-- **Salary, not satisfaction, is a likey driver in sales rep attrition**: Sales Representatives have a Job Satisfaction of 2.73, almost equalling the total average across all job roles, indicating Job Satisfaction is not a primary driver of high turnover of Sales Representatives.
+- **Salary, not satisfaction, is a likely driver in sales rep attrition**: Sales Representatives have a Job Satisfaction of 2.73, almost equalling the total average across all job roles, indicating Job Satisfaction is not a primary driver of high turnover of Sales Representatives.
 on the other hand, Average Monthly Salary between job roles experience a strong negative correlation with attrition rate (correlation coefficient of -0.76), with higher salaries seeing lower attrition rates, Sales Representatives have the lowest salary across all job roles, suggesting that Monthly Salary could be a primary driver for the high turnover of Sales Representatives.
 - **Overtime almost triples the risk of attrition**: Employees who work overtime (30.53% attrition rate) are 2.9 times more likely to leave compared to those who do not (10.44%).
-- **front-loaded attriton**: 29.82% of employees leave within the first 2 years, compared to 10.38% at 10+ years of tenure.
+- **front-loaded attrition**: 29.82% of employees leave within the first 2 years, compared to 10.38% at 10+ years of tenure.
 - **Risk rises with frequency of business travel**, Risk of attrition rises consistently with travel frequency, sitting at 24.91% for frequent travelers, 14.96% for rare travelers, and 8.00% for non-travelers.
 
 
