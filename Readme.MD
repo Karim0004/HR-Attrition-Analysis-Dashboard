@@ -4,6 +4,9 @@ an analytical take on IBM's public HR Employee Attrition dataset to create a das
 
 ---
 
+## Executive Summary
+**[📄 Executive Summary](./Final Documents/HR Attrition Analysis Executive Summary.pdf)**
+
 ## Problem Statement
 
 total company attrition stands at 16.12% (237 of 1,470 employees), data on which roles, working conditions or tenure stages , etc. that actually drive that number can be used to assist with retention budget allocation.
@@ -42,7 +45,7 @@ on the other hand, Average Monthly Salary between job roles experience a strong 
 
 ## Recommendations
 
--Review monthly salary for Sales Representatives and build a structured promotion path so employees see a career growth path before they enter the 3-5 years tenure group.
+- Review monthly salary for Sales Representatives and build a structured promotion path so employees see a career growth path before they enter the 3-5 years tenure group.
 - Check the distribution of workload in teams which contribute a lot of overtime hours, and check the possibility of balancing workload with employees who do not contribute overtime hours.
 - Review current onboarding process, ensure that new hires have sufficient support and mentorship to get them through the highest risk of attrition window.
 - Assess the travel demands of employees who frequently travel and check opportunities for reducing the need to travel for frequent travelers.
